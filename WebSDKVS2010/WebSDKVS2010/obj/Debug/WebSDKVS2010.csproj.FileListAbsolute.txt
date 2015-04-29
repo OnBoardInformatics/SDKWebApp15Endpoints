@@ -1,0 +1,5 @@
+c:\users\duration 1729\documents\visual studio 2010\Projects\WebSDKVS2010\WebSDKVS2010\bin\WebSDKVS2010.dll
+c:\users\duration 1729\documents\visual studio 2010\Projects\WebSDKVS2010\WebSDKVS2010\bin\WebSDKVS2010.pdb
+c:\users\duration 1729\documents\visual studio 2010\Projects\WebSDKVS2010\WebSDKVS2010\bin\Newtonsoft.Json.dll
+c:\users\duration 1729\documents\visual studio 2010\Projects\WebSDKVS2010\WebSDKVS2010\obj\Debug\WebSDKVS2010.dll
+c:\users\duration 1729\documents\visual studio 2010\Projects\WebSDKVS2010\WebSDKVS2010\obj\Debug\WebSDKVS2010.pdb
